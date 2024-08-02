@@ -39,17 +39,12 @@
     font-weight: normal;
     font-size: 1.7vw;
 }
-.assignRoom-body-top input {
+.assignRoom-body-top h1 {
     font-size: 4.5vw;
-    width: 40%;
-    text-align: center;
     font-weight: lighter;
+    text-decoration: underline;
     font-style: italic;
     opacity: .6;
-    outline: none;
-    background-color: transparent;
-    border: none;
-    border-bottom: thick solid #FDF0D5;
 }
 .assignRoom-body-middle {
     height: 10vh;
@@ -100,10 +95,4 @@
     background-color: rgba(253, 240, 213, 1);
     font-size: 1.3vw;
 
-}
-.Assign_date {
-    background-color: transparent;
-    border: none;
-    width: 35%;
-    margin: auto;
 }

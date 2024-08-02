@@ -24,15 +24,13 @@ const UpdateGuestPayment = () => {
               <option value="Laundry">Laundry</option>
               <option value="Pool">Pool</option>
               <option value="Restaurant">Restaurant</option>
-              <option value="Bar">Bar</option>
             </select>
           </div>
 
           <form action="" className="UpdateGuestPayment-form">
 
             <textarea name="" id="" rows={5} cols={50} placeholder="Comments"></textarea>
-            <input type="text" placeholder="Bill:" />
-            <input type="text" placeholder="Paid:" />
+            <input type="text" placeholder="Amount:" />
             <button  type="submit">Update</button>
             
             

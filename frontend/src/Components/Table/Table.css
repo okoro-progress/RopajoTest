@@ -34,7 +34,7 @@
 }
 .dashAccount-web-table section {
     overflow-y: scroll;
-    height: 45vh !important;
+    height: 40vh !important;
 }
 .dashAccount-web-table section div {
     display: flex;

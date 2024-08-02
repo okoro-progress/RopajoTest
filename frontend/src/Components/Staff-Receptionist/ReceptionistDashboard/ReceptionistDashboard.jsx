@@ -35,7 +35,7 @@ const ReceptionistDashboard = () => {
                         return isActive ? 'hover-rdb-btn': '';
                     }}><li>History</li></NavLink>
                     
-                    <Link to='/SignIn'><li>Signout</li></Link>
+                    <Link><li>Signout</li></Link>
                 </ul>
         </div>
     </div>
